@@ -3,8 +3,6 @@
 Endüstri Mühendisliği son sınıf öğrencisiyim yakın zamanda  mezun olacağım..  
 Kalite yönetim sistemleri, süreç geliştirme, talep tahmini ve veri analizi alanlarında yapay zeka destekli araçlardan yararlanarak projeler geliştiriyorum.
 
-Üniversite sürecinde kalite yönetimi, Ar-Ge süreçleri, tedarik ve stok yönetimi gibi alanlarda deneyim kazandım.  
-Python ve web tabanlı sistemler kullanarak karar destek ve süreç yönetimi odaklı projeler geliştiriyorum.
 
 ## İlgi Alanlarım
 
