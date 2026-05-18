@@ -1,4 +1,4 @@
-# Merhaba, ben Ezgi Ünal 👋
+# Merhaba, ben Ezgi Ünal
 
 Endüstri Mühendisliği son sınıf öğrencisiyim yakın zamanda  mezun olacağım.
 Kalite yönetim sistemleri, süreç geliştirme, talep tahmini ve veri analizi alanlarında yapay zeka destekli araçlardan yararlanarak projeler geliştiriyorum.
