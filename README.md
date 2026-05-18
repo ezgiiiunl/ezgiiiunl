@@ -1,16 +1,40 @@
-## Hi there 👋
+# Merhaba, ben Ezgi Ünal 👋
 
-<!--
-**ezgiiiunl/ezgiiiunl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Endüstri Mühendisliği son sınıf öğrencisiyim yakın zamanda  mezun olacağım..  
+Kalite yönetim sistemleri, süreç geliştirme, talep tahmini ve veri analizi alanlarında yapay zeka destekli araçlardan yararlanarak projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+Üniversite sürecinde kalite yönetimi, Ar-Ge süreçleri, tedarik ve stok yönetimi gibi alanlarda deneyim kazandım.  
+Python ve web tabanlı sistemler kullanarak karar destek ve süreç yönetimi odaklı projeler geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## İlgi Alanlarım
+
+- Kalite Yönetim Sistemleri
+- Süreç İyileştirme
+- Stok ve Tedarik Yönetimi
+- Veri Analizi
+- İş Zekası Uygulamaları
+
+## Yetenekler
+
+- Python
+- Streamlit
+- SQL
+- Flask
+- HTML / CSS
+
+
+## Öne Çıkan Projeler
+
+### Dijital Kalite Yönetim Sistemi
+ISO 9001 prensipleri temel alınarak geliştirilen web tabanlı kalite yönetim sistemi tasarımı.
+
+### Talep Tahmin ve Stok Optimizasyon Sistemi
+Geçmiş kullanım verileriyle talep tahmini yapan ve bütçe/stok odaklı sipariş önerileri sunan Python tabanlı karar destek sistemi.
+
+## Hedefim
+
+Kalite yönetimi, süreç geliştirme, veri analizi ve operasyon yönetimi alanlarında kendimi geliştirerek kurumsal yapılarda değer üretebileceğim projelerde yer almak.
+
+
+LinkedIn:  
+Mail:
