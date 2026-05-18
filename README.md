@@ -36,5 +36,3 @@ Geçmiş kullanım verileriyle talep tahmini yapan ve bütçe/stok odaklı sipar
 Kalite yönetimi, süreç geliştirme, veri analizi ve operasyon yönetimi alanlarında kendimi geliştirerek kurumsal yapılarda değer üretebileceğim projelerde yer almak.
 
 
-LinkedIn:  
-Mail:
